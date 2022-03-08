@@ -35,6 +35,6 @@ public class CouponNumbers {
 			System.out.println(i + " elements in the array is " + colt[i]);
 		}	
 
-	}
+}
 
 }
